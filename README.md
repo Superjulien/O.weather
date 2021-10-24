@@ -13,6 +13,7 @@ Required :
 - python 3
 - OpenWeather account
 - pyowm
+- pip
 
 ```
 pip install pyowm
