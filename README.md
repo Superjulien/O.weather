@@ -37,4 +37,4 @@ Weather report : 19.25C clear sky 18.41C +20.13C -16.84C Hum:45% Wind:4.23m/s Su
 
 ## Support
 
-For support, email [superjulien](mailto:contact.superjulien@gmail.com).  
+For support, email [Gmail: superjulien](mailto:contact.superjulien@gmail.com) | [Tutanota: superjulien](mailto:contacts.superjulien@tutanota.com).
