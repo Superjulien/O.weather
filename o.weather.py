@@ -3,6 +3,12 @@ from pyowm.utils.config import get_default_config
 from pyowm.utils import timestamps
 import time
 
+# O.weather
+# by superjulien 
+# > https://github.com/Superjulien
+# > https://framagit.org/Superjulien
+# V1.0
+
 #Setting :
 lang = 'EN'
 city = 'City,EN'
