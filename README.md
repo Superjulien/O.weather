@@ -51,7 +51,7 @@ cd O.weather/
 To use the script, you need to execute `o.weather.py` using Python. Here's how it works:
 
 ```bash
-python o.weather.py
+python3 o.weather.py
 ```
 
 ## Command-Line Options
@@ -81,19 +81,19 @@ The script operates by following these steps:
 1. Display a weather report in plain text format for the configured city:
 
 ```bash
-python o.weather.py
+python3 o.weather.py
 ```
 
 2. Generate a weather report in ASCII table format for the configured city:
 
 ```bash
-python o.weather.py -a
+python3 o.weather.py -a
 ```
 
 3. Display the script's version:
 
 ```bash
-python o.weather.py -v
+python3 o.weather.py -v
 ```
 
 ## Sponsoring
